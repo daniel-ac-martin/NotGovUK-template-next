@@ -25,6 +25,6 @@
     "cypress": "15.21.1",
     "sass-embedded": "1.103.1",
     "start-server-and-test": "3.0.12",
-    "typescript": "5.9.3"
+    "typescript": "7.0.2"
   }
 }
